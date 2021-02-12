@@ -1,0 +1,125 @@
+body {
+  background-color: #ddeedd;
+  margin: 0;
+}
+
+.center {
+  margin: auto;
+  width:20%;
+}
+
+#container {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+#title {
+  background-color: #c2d4dd;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+}
+
+#title a {
+  float: left;
+  padding-bottom: 14px;
+}
+#title input[type=text] {
+  padding: 6px;
+  margin-top: 2vw;
+  font-size: 17px;
+  border: none;
+}
+
+#signcart {
+  float: right;
+  margin-bottom: 1vw;
+  padding-right: 5vw;
+}
+
+#signin{
+  float:left;
+  padding-right: 2vw;
+
+}
+
+#cart{
+  float:right;
+}
+#nav {
+  background-color: #b0aac0;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+}
+#nav .center {
+padding-left: 12vw;
+width: 50%;
+}
+#nav ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #b0aac0;
+}
+
+#nav li {
+  float: left;
+  padding-right: 3vw;
+}
+
+#nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 18px;
+  text-decoration: none;
+}
+
+#nav li a:hover {
+  background-color: #907ebf;
+}
+#prod {
+  background-color: #f0efef;
+  width: 90vw;
+}
+
+#ptext {
+  background-color: #f0efef;
+  margin-top: 2vw;
+  padding: 1vw;
+  float: right;
+  width: 40vw;
+}
+#pname {
+  text-align: left;
+  float: left;
+}
+#productimg {
+  float: left;
+  margin-left:20vw;
+  margin-top: 2vw;
+}
+#pdesc {
+  float: left;
+}
+
+#footer {
+  float: left;
+   width: 96vw;
+   background-color: #f0efef;
+   margin:2vw
+}
+
+#footer a{
+  padding-right: 8vw;
+  display: block;
+  float:left;
+  text-align: center;
+}
+
+#footer h3{
+  text-align: center;
+}
